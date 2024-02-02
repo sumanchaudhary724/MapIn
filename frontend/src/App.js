@@ -5,7 +5,7 @@ function App() {
   const [viewState, setViewState] = React.useState({
     longitude: -100,
     latitude: 40,
-    zoom: 3.5,
+    zoom: 4.5,
   });
   return (
     <Map
